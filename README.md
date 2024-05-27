@@ -13,7 +13,7 @@ ____
 Полное описание задачи вы можете посмотреть [здесь.](https://github.com/hardworkerM/Checkin_Bot/blob/main/Checkin_bot_task.pdf) 
 
 **Команда:**
-[urycherd](https://github.com/urycherd) [mikabuto](https://github.com/mikabuto) [ptoshiko](https://github.com/ptoshiko) и другие
+[urycherd](https://github.com/urycherd) [mikabuto](https://github.com/mikabuto) [ptoshiko](https://github.com/ptoshiko) [hardworkerM](https://github.com/hardworkerM)
 
 ____
 ## Архитектура проекта
