@@ -17,13 +17,13 @@ You can view the full task description [here.](https://github.com/ptoshiko/Check
 
 ____
 ## Project Architecture
-- [/data] - storage for generated report files and QR codes
-- [/database](https://github.com/ptoshiko/Checkin_Bot/tree/main/database) - database connection and SQL query functions
-- [/deeplink](https://github.com/ptoshiko/Checkin_Bot/tree/main/deeplink) - event QR code generation
-- [/handlers](https://github.com/ptoshiko/Checkin_Bot/tree/main/handlers) - handlers for bot-user interactions
-- [/keyboards](https://github.com/ptoshiko/Checkin_Bot/tree/main/keyboards) - functions for creating Inline and Reply keyboards
-- [/state](https://github.com/ptoshiko/Checkin_Bot/tree/main/state) - state class
-- [/utils](https://github.com/ptoshiko/Checkin_Bot/tree/main/utils) - auxiliary formatting functions
+- [/data](https://github.com/ptoshiko/check-in-bot/tree/main/data) - storage for generated report files and QR codes
+- [/database](https://github.com/ptoshiko/check-in-bot/tree/main/database) - database connection and SQL query functions
+- [/deeplink](https://github.com/ptoshiko/check-in-bot/tree/main/deeplink) - event QR code generation
+- [/handlers](https://github.com/ptoshiko/check-in-bot/tree/main/handlers) - handlers for bot-user interactions
+- [/keyboards](https://github.com/ptoshiko/check-in-bot/tree/main/keyboards) - functions for creating Inline and Reply keyboards
+- [/state](https://github.com/ptoshiko/check-in-bot/tree/main/state) - state class
+- [/utils](https://github.com/ptoshiko/check-in-bot/tree/main/utils) - auxiliary formatting functions
 - app.py и create_bot.py - bot connection and activation
 
 ____
